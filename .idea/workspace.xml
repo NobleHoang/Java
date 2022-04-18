@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6311de72-9e49-4374-8ce1-722134302cf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exx9.java" afterDir="false" />
+    <list default="true" id="6311de72-9e49-4374-8ce1-722134302cf5" name="Changes" comment="iguyg">
+      <change afterPath="$PROJECT_DIR$/src/createobject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +36,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,37 +68,37 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CircleCompution">
-    <configuration name="CircleCompution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircleCompution" />
+  <component name="RunManager" selected="Application.Student">
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintCheckerPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintCheckerPattern" />
+    <configuration name="task4_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4_17" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_testBien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_testBien" />
+    <configuration name="task4_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4_18" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex115" />
+    <configuration name="task4_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4_20" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exx9" />
+    <configuration name="task_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_19" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleCompution" />
-        <item itemvalue="Application.ex115" />
-        <item itemvalue="Application.PrintCheckerPattern" />
-        <item itemvalue="Application._testBien" />
-        <item itemvalue="Application.exx9" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.task4_20" />
+        <item itemvalue="Application.task_19" />
+        <item itemvalue="Application.task4_18" />
+        <item itemvalue="Application.task4_17" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1649234765186</updated>
     </task>
+    <task id="LOCAL-00001" summary="iguyg">
+      <created>1649400286115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649400286116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,5 +143,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iguyg" />
+    <option name="LAST_COMMIT_MESSAGE" value="iguyg" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task4_8.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
